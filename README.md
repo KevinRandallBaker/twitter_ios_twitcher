@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/Pk0qUGFtzA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Project 3 - *Twitcher*
+# Project 3 - *Twitter*
 
 **Name of your app** is a basic twitter app to read your tweets.
 
